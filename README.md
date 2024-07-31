@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/anshika-bansal-95b32021b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/u/AnshikaBansal2001/" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
+  
 </div>
 
 <h1 align="center">

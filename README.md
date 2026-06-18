@@ -39,9 +39,4 @@
 
 ---
 
-### :fire: My Stats :
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshikaBansal2004" alt="GitHub Streak Stats"/>
-</div>
-
 
